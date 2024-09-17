@@ -1,0 +1,76 @@
+# Compiled files
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build Directories
+build/
+[Bb]uild/
+
+# Uncomment if you have a nuget Packages folder in your repository
+# packages/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# ASP.NET files
+*.vspscc
+*.vssscc
+
+# Roslyn intermediate files
+*.ide
+
+# VS Code directory
+.vscode/
+
+# Log files
+*.log
+
+# Entity Framework Core Migrations
+[Mm]igrations/
+
+# Dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# MacOS
+.DS_Store
+
+# User Secrets
+**/secrets.json
+
+# Web-related files
+wwwroot/node_modules/
+wwwroot/lib/
+node_modules/
+npm-debug.log*
+
+# Environment Variables
+.env
+
+# Auto-generated files by Visual Studio
+.vs/
